@@ -2,3 +2,4 @@
 --format documentation
 --require spec_helper
 --order defined
+--fail-fast
