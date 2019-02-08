@@ -34,7 +34,6 @@ describe ApplicationController do
 
   end
 
-
   describe 'GET /' do
 
     it 'responds with a 200' do
