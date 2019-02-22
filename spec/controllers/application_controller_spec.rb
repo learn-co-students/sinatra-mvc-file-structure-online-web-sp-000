@@ -1,5 +1,6 @@
 require 'pry'
 
+binding.pry
 describe ApplicationController do
   describe 'Dog class' do
     it 'can create a dog with attributes on initialization' do
