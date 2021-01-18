@@ -4,7 +4,7 @@ gem 'sinatra'
 gem 'tux'
 gem 'require_all'
 gem 'rake'
-gem 'thin'
+gem 'thin', '~> 1.8'
 gem 'shotgun'
 gem 'pry'
 
