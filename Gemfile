@@ -4,7 +4,7 @@ gem 'sinatra'
 gem 'tux'
 gem 'require_all'
 gem 'rake'
-gem 'thin'
+gem 'thin', git: "https://github.com/macournoyer/thin.git"
 gem 'shotgun'
 gem 'pry'
 
